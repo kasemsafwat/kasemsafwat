@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Kasem Safwat Mohamed 
+### Software Engineer | Full stack Developer 
 
-<!--
-**kasemsafwat/kasemsafwat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/kasem-safwat-3ab98a2b0)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/kasemsafwat)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](kasemsafwat.96@gmail.com)
 
-Here are some ideas to get you started:
+---
+**kasemsafwat/kasemsafwat** I am a software engineer specializing in the development of web applications, the main responsibility 
+of my job is to design and develop the web interfaces that customers use and make sure that they 
+work perfectly as required. I can also work within the team and make the necessary suggestions and 
+clarifications. Without shortcomings in my work, I have acquired many skills. I obtained a very good 
+computer science certificate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ITI
+- 🌱 I’m currently learning MERN Stack Developer
+- 💬 Ask me about : Ask me anything you want to know about me
+- ⚡ Fun fact: I love coding and sharing my knowledge with others!
+<!--- 📫 How to reach me: ...
+- 🤔 I’m looking for help with 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 😄 Pronouns: ... -->
+
