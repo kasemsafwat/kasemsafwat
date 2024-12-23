@@ -4,7 +4,6 @@
 ---
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/kasem-safwat-3ab98a2b0)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/kasemsafwat)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](kasemsafwat.96@gmail.com)
 
 
