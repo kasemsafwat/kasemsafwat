@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/018d0815-72c4-4cbd-813f-ae04bae75ceb.svg)](https://wakatime.com/@kasemsafwat)
+[![wakatime](https://wakatime.com/dashboard)](https://wakatime.com/@kasemsafwat)
 
 ## Hi there 👋 I'm Kasem Safwat Mohamed 
 ### Software Engineer | Full stack Developer 
