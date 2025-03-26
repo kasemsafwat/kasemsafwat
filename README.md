@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/d5b6284a-1e66-4b17-b12a-2f2680902507.svg)](https://wakatime.com/@kasemsafwat)
 [![wakatime](https://wakatime.com/badge/user/d5b6284a-1e66-4b17-b12a-2f2680902507.svg)](https://wakatime.com/@d5b6284a-1e66-4b17-b12a-2f2680902507)
-<img src="https://wakatime.com/share/@kasemsafwat/fa011139-0194-45b2-b5f5-a6dff53d3b62.svg">
+<img src="https://wakatime.com/share/@kasemsafwat/fa011139-0194-45b2-b5f5-a6dff53d3b62.svg" height="400" width="400">
 ## Hi there 👋 I'm Kasem Safwat Mohamed 
 ### Software Engineer | Full stack Developer 
 
